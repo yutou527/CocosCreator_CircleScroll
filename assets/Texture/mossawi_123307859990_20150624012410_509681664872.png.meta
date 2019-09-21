@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7b721089-e2f5-435f-a46a-b31cdd8ee903",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mossawi_123307859990_20150624012410_509681664872": {
+      "ver": "1.0.4",
+      "uuid": "ef92577a-3e2e-4eaa-a854-0d3d01dd94b5",
+      "rawTextureUuid": "7b721089-e2f5-435f-a46a-b31cdd8ee903",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
