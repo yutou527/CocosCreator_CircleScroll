@@ -65,3 +65,101 @@
 2019-09-21T05:00:06.750Z - normal: Loading packages
 2019-09-21T05:00:06.761Z - normal: Watching packages
 2019-09-21T05:00:08.058Z - normal: Run Application
+2019-09-21T05:08:24.313Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "icon"
+Missing uuid: "f7056445-a4bb-4c59-a41a-0b4454427890"
+
+2019-09-21T05:14:34.459Z - success: huawei-runtime unloaded
+2019-09-21T05:14:34.461Z - success: cpk-publish unloaded
+2019-09-21T05:14:34.461Z - success: oppo-runtime unloaded
+2019-09-21T05:14:34.461Z - success: vivo-runtime unloaded
+2019-09-21T05:14:34.480Z - success: huawei-runtime loaded
+2019-09-21T05:14:34.480Z - success: cpk-publish loaded
+2019-09-21T05:14:34.480Z - success: oppo-runtime loaded
+2019-09-21T05:14:34.480Z - success: vivo-runtime loaded
+2019-09-21T05:14:37.635Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "C:\\Users\\xyxy\\work\\CircleScroll\\build",
+  "debug": false,
+  "dest": "C:\\Users\\xyxy\\work\\CircleScroll\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.CircleScroll",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "6a4184f3-d29a-4fc4-a65b-ad263dc36a8c"
+  ],
+  "sourceMaps": false,
+  "startScene": "6a4184f3-d29a-4fc4-a65b-ad263dc36a8c",
+  "template": "link",
+  "title": "CircleScroll",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "4be6916e-9920-4e",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\xyxy\\work\\CircleScroll",
+  "projectName": "CircleScroll",
+  "debugBuildWorker": false
+}
+2019-09-21T05:14:37.638Z - normal: Building C:\Users\xyxy\work\CircleScroll
+2019-09-21T05:14:37.639Z - normal: Destination C:\Users\xyxy\work\CircleScroll\build\web-mobile
+2019-09-21T05:14:37.791Z - normal: Delete C:\Users\xyxy\work\CircleScroll\build\web-mobile\subpackages/**/*,C:\Users\xyxy\work\CircleScroll\build\web-mobile\**\*
+2019-09-21T05:15:27.084Z - normal: Start building assets
+2019-09-21T05:15:27.085Z - normal: Start spawn build-worker
+2019-09-21T05:15:28.134Z - normal: Finish spawn build-worker
+2019-09-21T05:15:28.134Z - normal: Start init build-worker
+2019-09-21T05:15:31.830Z - normal: Finish init build-worker
+2019-09-21T05:15:31.830Z - normal: Start build-assets in worker
+2019-09-21T05:15:32.117Z - normal: Finish build-assets in worker
+2019-09-21T05:15:32.124Z - normal: Finish building assets
+2019-09-21T05:15:32.137Z - normal: Start building plugin scripts
+2019-09-21T05:15:32.184Z - normal: Generating main.js from C:\CocosCreator_2.0.10\resources\static\build-templates\shares\main.js
+2019-09-21T05:15:32.203Z - normal: Generating html from C:\CocosCreator_2.0.10\resources\static\build-templates\web-mobile\template\index.html
+2019-09-21T05:15:32.225Z - normal: Built to "C:\Users\xyxy\work\CircleScroll\build\web-mobile" successfully
